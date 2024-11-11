@@ -1,0 +1,1 @@
+Sizlere lazım olan bir nuget paketi bulunuyor. Bu paketi yükledikten sonra excele aktarması için closedXML paketini yüklemelisiniz. ardından cs uzantılı dosyamı inceleyerek projenizi geliştirebilirsiniz.
